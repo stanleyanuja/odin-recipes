@@ -1,0 +1,25 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    background-color: lightcyan;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    margin: 70px;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    display: block;
+    border-radius: 8px;
+    /* margin: 70px; */
+}
+
+
+
