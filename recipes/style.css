@@ -1,0 +1,25 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    background-color:aliceblue ;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.procedure {
+    /* background-color: cadetblue; */
+    display: flex;
+}
+
+
+.steps {
+    margin-left: auto;
+}
